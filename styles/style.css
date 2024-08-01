@@ -476,12 +476,14 @@ body {
   .header__search {
     width: 20px;
     background-image: url(../images/search.svg);
+    background-repeat: no-repeat;
   }
 
   .header__menu {
     width: 27px;
     background-image: url(../images/Vector-2.svg);
     margin-left: 22px;
+    background-repeat: no-repeat;
   }
 
   .main {
